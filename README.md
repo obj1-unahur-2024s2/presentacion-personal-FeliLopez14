@@ -28,4 +28,4 @@ Me encantan los gatos y los videojuegos
 
 
 
-![Foto Cara](foto.png)
+![Foto Cara](ElBicho.png)
