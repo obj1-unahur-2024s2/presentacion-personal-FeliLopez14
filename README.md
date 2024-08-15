@@ -5,6 +5,7 @@
 
 Hola!, Soy estudiante de la tecnicaturaen programacion y proximamente de la Licenciatura en Informatica. Desde chico me gustó indagar en las computadoras, asi que creí que esta carrera era la indicada para mi.
 
+![Foto Cara](ElBicho.png)
 
 ```
 Soy de La Matanza
@@ -28,4 +29,4 @@ Me encantan los gatos y los videojuegos
 
 
 
-![Foto Cara](ElBicho.png)
+
